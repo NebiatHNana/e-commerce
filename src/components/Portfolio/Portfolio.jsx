@@ -6,7 +6,7 @@ export default function Portfolio() {
     return (
         <section>
         <div className="projects">
-        <Project title="Mini Games" gitHub="https://github.com/NebiatHNana/team-5" imgUrl="/assets/minigames.jpeg"/>
+        <Project title="On-code"  videoUrl="/assets/on-code.mp4"/>
         <Project title="Weather Dashboard" gitHub="https://github.com/NebiatHNana/weather-dashboard" url="https://nebiathnana.github.io/weather-dashboard/" imgUrl="/assets/weather-app.png"/>
         <Project title="Work Day Scheduler" gitHub="https://github.com/NebiatHNana/workday-scheduler" url="https://nebiathnana.github.io/workday-scheduler/" imgUrl="/assets/workday-scheduler.png"/>
         <Project title="Code Quiz" gitHub="https://github.com/NebiatHNana/timed-quiz" url="https://nebiathnana.github.io/timed-quiz/" imgUrl="/assets/code-quiz.png"/>
