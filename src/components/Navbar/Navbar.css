@@ -1,7 +1,7 @@
 /*HEADER*/
 
 header {
-    background-color: rgb(112, 20, 87);
+    background-color: rgb(25, 12, 21);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -9,7 +9,7 @@ header {
 }
 
 header h1 {
-    background-color: rgb(112, 20, 87);
+    background-color: rgb(34, 19, 30);
     color: #cbd3dd;
 }
 
