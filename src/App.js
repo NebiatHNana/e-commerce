@@ -5,14 +5,13 @@ import Portfolio from "./components/Portfolio/Portfolio.jsx";
 import About from "./components/About/About.jsx";
 import Resume from "./components/Resume/Resume.jsx";
 //import Home from "./components/Home/Home.jsx";
-import Video from "./components/video/video.jsx";
+//import Video from "./components/video/video.jsx";
 import Footer from "./components/Footer/Footer.jsx";
 
 function App() {
   return (
     <div>
       <Header />
-      <video />
       <Routes>
         <Route path="/contact" element={<Contact />} />
         <Route path={"/about"} element={<About />} />

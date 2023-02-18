@@ -55,10 +55,6 @@ section {
 }
 
 
-.calculator {
-    background-image: url(../../../public/assets/calculator.png);
-    padding-bottom: 50%;
-}
 
 .projects {
     display: grid;

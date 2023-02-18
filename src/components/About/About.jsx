@@ -4,20 +4,15 @@ import "./About.css"
 function About() {
     return (
         <section id="about-me" className="side-bar">
-        <h2>About Me</h2>
+        <h2>About us</h2>
         <div className="about">
-            <p> My name is Nebiat HaileMichael with +10 years experience in commercial 
-            aviation leadership, with track record achievement.
-            Passionate about Digital technology, Digital marketing, Fullstack web development
-            and Aviation industry.
+            <p> On Code offers brand name blank coder t-shirts, and other items at retail and wholesale prices. 
+                Orders placed and processed before 11 a.m. Pacific time are usually picked up the same day by a courier.
+                 Most orders arrive within 1 to 2 business days, depending on proximity to so you can 
+                  get your order quickly.
         </p>
             <p>
-                My previous job required me to travel the world,
-            and I visited 22 countries in total. And, as Director
-            for Ethiopian Airlines, I spent three and four years in 
-            Paris and Qatar, respectively. I am currently expanding
-            my knowledge and skill on Computer science and Fullstack 
-            development and please check out my profile for more Information. 
+            We don't have a minimum or maximum order size; we make it happen, no matter how big or small!
          </p>
         </div>
     </section>

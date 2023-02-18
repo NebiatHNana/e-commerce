@@ -4,7 +4,8 @@ import "./Footer.css"
 function Footer() {
     return (
         <footer>
-        &copy; Nebiat H Nana
+        &copy; Group 5 
+    
     </footer>
     );
 }
